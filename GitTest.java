@@ -11,7 +11,7 @@ public class GitTest{
 		outprint = "This is my GitHub test";
 	}
 
-	public GitTest(String outprint){
+	public void setString(String outprint){
 		this.outprint = outprint;
 	}
 
