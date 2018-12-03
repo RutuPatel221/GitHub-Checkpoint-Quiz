@@ -10,4 +10,8 @@ public class GitTest{
 		this.outprint = outprint;
 	}
 
+	public String toString(){
+		return "This is my GitHub test";
+	}
+
 }
